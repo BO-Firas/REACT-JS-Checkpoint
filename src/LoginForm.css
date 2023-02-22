@@ -1,0 +1,14 @@
+.wrapper{
+    height: 617px;
+}
+.login{
+    width: 400px;
+    height: min-content;
+    border-radius: 5px;
+    color: black;
+    padding: 20px;
+    background-color: rgb(238, 241, 243);
+}
+h2{
+    text-align: center;
+}
